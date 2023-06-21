@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\bin\Debug\net6.0\Interfacebehavior.exe
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\bin\Debug\net6.0\Interfacebehavior.deps.json
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\bin\Debug\net6.0\Interfacebehavior.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\bin\Debug\net6.0\Interfacebehavior.dll
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\bin\Debug\net6.0\Interfacebehavior.pdb
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.dll
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\refint\Interfacebehavior.dll
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.pdb
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\Interfacebehavior.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\Interfacebehavior\obj\Debug\net6.0\ref\Interfacebehavior.dll
